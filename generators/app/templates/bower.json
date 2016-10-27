@@ -1,0 +1,19 @@
+{
+  "name": "ti-web-app",
+  "description": "A Web App by Toru Interactive",
+  "authors": [
+    "Sean Toru <sean@toruinteractive.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jquery-ui": "^1.12.1",
+    "bootstrap": "^3.3.7"
+  }
+}
